@@ -1,5 +1,8 @@
 {
-               "env" :{
-                              "MONGO_ATLAS_PW": "node-api"
-                       }
-}
+               "env": {
+                 "MONGO_ATLAS_PW": "node-api",
+                 "JWT_KEY":"secret"
+
+               }
+ }
+             
